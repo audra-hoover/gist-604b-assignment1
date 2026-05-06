@@ -17,6 +17,7 @@ def main():
 
     # Add your own message here!
     print("I am interested in spatial mapping and drone visualization")
+    print('Updated in Codespaces')
 
 if __name__ == "__main__":
     main()
