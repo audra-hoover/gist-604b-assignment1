@@ -1,0 +1,120 @@
+# Open Source Repository Review
+
+**Student:** Audra Hoover 
+**Course:** GIST 604B – Open Source GIS  
+**Assignment:** GitHub Repository Management  
+
+---
+
+## Repository 1
+
+**Repository Name:**  QGIS
+**Link:**  https://github.com/qgis/QGIS
+
+### Purpose
+What does this project do?
+QGIS is a free, open source, cross platform (lin/win/mac) geographical information system (GIS). 
+
+### Repository Structure
+What folders or files stand out?
+LAS/LAZ and EPT datasets, Python
+
+### Documentation
+How helpful is the README?
+Great documentation with a lot of example pictures and really cool maps. 
+Easy to follow, and good links to help and support documentation.
+
+### Activity
+Is the repository actively maintained?
+Yes, looks like it is a least updated weekly sometimes more. 
+
+### Key Observation
+One thing this project does well.
+Desribing the different uses for QGIS and understanding how to use and download it. 
+---
+
+## Repository 2
+**Repository Name:**  GRASS
+**Link:**  https://github.com/OSGeo/grass
+
+### Purpose
+What does this project do?
+A powerful computational engine for raster, vector, and geospatial processing. 
+It supports terrain and ecosystem modeling, hydrology, data management, and imagery processing.
+
+### Repository Structure
+What folders or files stand out?
+Governance.md, raster3d
+
+### Documentation
+How helpful is the README?
+It was still easy to follow. A lot less documnetation than QGIS, but it does look to provide
+more links to setting up outside of GitHub. 
+
+### Activity
+Is the repository actively maintained?
+Yes, last edit was 2 days ago, appears to be updated weekly at least. 
+
+### Key Observation
+One thing this project does well.
+Supplying helful links and focusing really on the community of GRASS, but including discorse links, 
+and main contributors tabs. 
+---
+
+## Repository 3
+**Repository Name:**  Giselle
+**Link:**  https://github.com/giselles-ai/giselle
+
+### Purpose
+What does this project do?
+ Giselle is an open source AI for agentic workflows, enabling seamless human-AI collaboration.
+
+### Repository Structure
+What folders or files stand out?
+CLAUDE.md
+
+### Documentation
+How helpful is the README?
+Looks helpful, they even provide code for quick start. 
+
+### Activity
+Is the repository actively maintained?
+Yes, looks like it is a least updated weekly sometimes more. 
+
+### Key Observation
+One thing this project does well.
+Helpful in how to access it inside of GitHub and using it in your own code. 
+---
+
+## Repository 4
+**Repository Name:**  GDAL
+**Link:**  https://github.com/OSGeo/gdal
+
+### Purpose
+What does this project do?
+ GDAL is an open source MIT licensed translator library for raster and vector geospatial 
+ data formats.
+
+### Repository Structure
+What folders or files stand out?
+BUILDING.md, HOWTO-REALESE
+
+### Documentation
+How helpful is the README?
+It is shorter documentation, but provides the nesssecary links and support to understand. 
+
+### Activity
+Is the repository actively maintained?
+Yes, looks like it is a least updated weekly sometimes more. 
+
+### Key Observation
+One thing this project does well.
+Guiding you to the proper channels to build and contribute to the library.
+
+---
+
+## Reflection
+Open Source projects are organized by workflows. 
+They have a main repository where you can see all the edits, but then you are able to contribute
+youself and track the contribtions. The repositories themselves are made up of 
+documentation (files and folders).
